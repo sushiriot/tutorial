@@ -1,8 +1,8 @@
 
-# tutorial
+# Tutorial
 ramping up on github desktop
 
-##Table
+## Table
 | Month    | Savings |
 | -------- | ------- |
 | January  | $250    |
@@ -10,11 +10,11 @@ ramping up on github desktop
 | March    | $420    |
 
 
-##Image
+## Image
 
 [Octo](/Images/octo.png)
 =======
-# Tutorial
+# HTML
 Ramping up on github desktop. Trying out the features.
 
 
